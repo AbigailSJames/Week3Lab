@@ -18,6 +18,6 @@
             <input type="submit" value="Age next birthday">     
         </form>
            ${display}
-            <a href="arithmeticcalculator.jsp"> Arithmetic Calculator</a>
+            <a href="ArithmeticCalculatorServlet"> Arithmetic Calculator</a>
     </body>
 </html>
